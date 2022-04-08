@@ -27,3 +27,8 @@ This looks like code in line `return "bye";`
 System.out.println("Hi i'm code block");
 return;
 ```
+# Link Version 1
+[Lab Report 1](lab-report-1-week-2.html)
+
+# Link Version 2
+[Lab Report 1](https://preellis.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
