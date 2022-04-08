@@ -17,6 +17,10 @@ This is my first logo
 
 CODE
 ---
+---
+---
+---
+---
 This looks like code in line `return "bye";`
 
 ```
