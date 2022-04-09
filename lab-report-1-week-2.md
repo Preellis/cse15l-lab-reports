@@ -1,3 +1,7 @@
+# Lab Report 1 Week 2
+---
+
+
 Below is screenshot
 ![screenshot](./page_screenshot.png)
 
